@@ -1,0 +1,47 @@
+.shop-admin .stat-card .card-body {
+    min-height: 140px;
+    gap: 0.5rem;
+}
+
+.shop-admin .card .form-label {
+    font-size: 0.875rem;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
+
+.shop-admin .card .form-control::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.shop-admin .card .form-control:focus {
+    box-shadow: none;
+    border-color: rgba(255, 255, 255, 0.65);
+}
+
+.shop-admin .btn-group .btn {
+    min-width: 180px;
+}
+
+.shop-admin .form-check-input {
+    background-color: transparent;
+    border-color: rgba(255, 255, 255, 0.35);
+}
+
+.shop-admin .form-check-input:checked {
+    background-color: #2dce89;
+    border-color: #2dce89;
+}
+
+.shop-admin .form-check-label {
+    font-size: 0.875rem;
+}
+
+.shop-admin .table thead th {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 0.75rem;
+}
+
+.shop-admin .table td {
+    vertical-align: middle;
+}

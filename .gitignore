@@ -1,0 +1,41 @@
+# Laravel
+/vendor
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/.phpunit.cache
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+
+# Environment / secrets
+/.env
+.env
+.env.backup
+.env.production
+.env.example
+# Python / virtual environments
+/.venv
+.venv
+
+# Node / logs
+npm-debug.log
+yarn-error.log
+
+# IDEs / editors
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+/.fleet
+
+# Large files (if not tracked with LFS)
+*.zip
+*.tar
+*.mp4
+*.mov
+*.mkv
+*.psd

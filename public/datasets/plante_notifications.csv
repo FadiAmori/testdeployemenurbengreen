@@ -1,0 +1,181 @@
+﻿nom_plante,nom_notification_1,message_notification_1,date_notification_1,heure_notification_1,jour_notification_1,nom_notification_2,message_notification_2,date_notification_2,heure_notification_2,jour_notification_2
+Tomate,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-26,13:20,Dimanche
+Basilic,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-25,13:20,Samedi
+Menthe,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-22,13:20,Mercredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Romarin,Taille,Taillez les feuilles fanées cette semaine.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Lavande,Lumière,Placez la plante à la lumière ce matin.,2025-10-20,13:20,Lundi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Citronnier,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Olivier,Lumière,Placez la plante à la lumière ce matin.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-24,13:20,Vendredi
+Figuier,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-18,13:20,Samedi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Orchidée,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-20,13:20,Lundi,Lumière,Placez la plante à la lumière ce matin.,2025-10-27,13:20,Lundi
+Aloe Vera,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Géranium,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-16,13:20,Jeudi,Lumière,Placez la plante à la lumière ce matin.,2025-10-23,13:20,Jeudi
+Rosier,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-27,13:20,Lundi
+Piment,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-20,13:20,Lundi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Poivron,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-25,13:20,Samedi
+Courgette,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Fraise,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-17,13:20,Vendredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Carotte,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-29,13:20,Mercredi
+Persil,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Ciboulette,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-18,13:20,Samedi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-28,13:20,Mardi
+Laurier,Taille,Taillez les feuilles fanées cette semaine.,2025-10-16,13:20,Jeudi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-23,13:20,Jeudi
+Sauge,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Lumière,Placez la plante à la lumière ce matin.,2025-10-27,13:20,Lundi
+Thym,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-26,13:20,Dimanche
+Camomille,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Tournesol,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-28,13:20,Mardi
+Chêne,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-17,13:20,Vendredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-26,13:20,Dimanche
+Érable,Lumière,Placez la plante à la lumière ce matin.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-28,13:20,Mardi
+Pin,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Palmier,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Cyprès,Taille,Taillez les feuilles fanées cette semaine.,2025-10-16,13:20,Jeudi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-29,13:20,Mercredi
+Bégonia,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Jasmin,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-27,13:20,Lundi
+Hortensia,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Magnolia,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-20,13:20,Lundi,Lumière,Placez la plante à la lumière ce matin.,2025-10-24,13:20,Vendredi
+Tulipe,Lumière,Placez la plante à la lumière ce matin.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-25,13:20,Samedi
+Narcisse,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-25,13:20,Samedi
+Pivoine,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-20,13:20,Lundi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Lys,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-24,13:20,Vendredi
+Violette,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Azalée,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-25,13:20,Samedi
+Dahlia,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-26,13:20,Dimanche
+Citrouille,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-17,13:20,Vendredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-24,13:20,Vendredi
+Betterave,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-18,13:20,Samedi,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Raisin,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Pomme,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Poire,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-25,13:20,Samedi
+Cerise,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-23,13:20,Jeudi
+Abricot,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Pêcher,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Lumière,Placez la plante à la lumière ce matin.,2025-10-27,13:20,Lundi
+Prunier,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-25,13:20,Samedi
+Noisetier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-16,13:20,Jeudi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-24,13:20,Vendredi
+Chou,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-29,13:20,Mercredi
+Brocoli,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-27,13:20,Lundi
+Radis,Taille,Taillez les feuilles fanées cette semaine.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Navet,Taille,Taillez les feuilles fanées cette semaine.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Oignon,Lumière,Placez la plante à la lumière ce matin.,2025-10-17,13:20,Vendredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Ail,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Lumière,Placez la plante à la lumière ce matin.,2025-10-25,13:20,Samedi
+Poireau,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Maïs,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-24,13:20,Vendredi
+Riz,Taille,Taillez les feuilles fanées cette semaine.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-28,13:20,Mardi
+Blé,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Orge,Taille,Taillez les feuilles fanées cette semaine.,2025-10-19,13:20,Dimanche,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Seigle,Lumière,Placez la plante à la lumière ce matin.,2025-10-20,13:20,Lundi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Avoine,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-21,13:20,Mardi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-26,13:20,Dimanche
+Haricot,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-24,13:20,Vendredi
+Lentille,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Pois,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Lumière,Placez la plante à la lumière ce matin.,2025-10-28,13:20,Mardi
+Soja,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Caféier,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-25,13:20,Samedi
+Cacaoyer,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-29,13:20,Mercredi
+Théier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-17,13:20,Vendredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-29,13:20,Mercredi
+Vanillier,Taille,Taillez les feuilles fanées cette semaine.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-23,13:20,Jeudi
+Bananaier,Lumière,Placez la plante à la lumière ce matin.,2025-10-17,13:20,Vendredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-25,13:20,Samedi
+Manguiers,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-19,13:20,Dimanche,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-28,13:20,Mardi
+Papayer,Taille,Taillez les feuilles fanées cette semaine.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-28,13:20,Mardi
+Ananas,Taille,Taillez les feuilles fanées cette semaine.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Cocotier,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Palmier dattier,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-18,13:20,Samedi,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Baobab,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-17,13:20,Vendredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-23,13:20,Jeudi
+Bambou,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-23,13:20,Jeudi
+Gingembre,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Curcuma,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-29,13:20,Mercredi
+Arbousier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-24,13:20,Vendredi
+Groseillier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-20,13:20,Lundi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Framboisier,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Mûrier,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Myrtillier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Cassis,Taille,Taillez les feuilles fanées cette semaine.,2025-10-18,13:20,Samedi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-27,13:20,Lundi
+Canne à sucre,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Menthe poivrée,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-17,13:20,Vendredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-23,13:20,Jeudi
+Eucalyptus,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Châtaignier,Lumière,Placez la plante à la lumière ce matin.,2025-10-19,13:20,Dimanche,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-23,13:20,Jeudi
+Noyer,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-27,13:20,Lundi
+Pistachier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-17,13:20,Vendredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-28,13:20,Mardi
+Amandier,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Cèdre,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Cycas,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Yucca,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-20,13:20,Lundi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Agave,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Cactus,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Bouleau,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Tilleul,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Platane,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-17,13:20,Vendredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-24,13:20,Vendredi
+Acacia,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-27,13:20,Lundi
+Hêtre,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-27,13:20,Lundi
+Saule,Taille,Taillez les feuilles fanées cette semaine.,2025-10-21,13:20,Mardi,Lumière,Placez la plante à la lumière ce matin.,2025-10-27,13:20,Lundi
+Peuplier,Lumière,Placez la plante à la lumière ce matin.,2025-10-19,13:20,Dimanche,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-25,13:20,Samedi
+Bananier,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-27,13:20,Lundi
+Mangrove,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-16,13:20,Jeudi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Oranger,Lumière,Placez la plante à la lumière ce matin.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Mandarinier,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-16,13:20,Jeudi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-26,13:20,Dimanche
+Pamplemoussier,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Citron vert,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-22,13:20,Mercredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-23,13:20,Jeudi
+Kumquat,Taille,Taillez les feuilles fanées cette semaine.,2025-10-21,13:20,Mardi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Grenadier,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-26,13:20,Dimanche
+Kaki,Lumière,Placez la plante à la lumière ce matin.,2025-10-17,13:20,Vendredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Kiwi,Lumière,Placez la plante à la lumière ce matin.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-24,13:20,Vendredi
+Figue de Barbarie,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Melon,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-28,13:20,Mardi
+Pastèque,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-29,13:20,Mercredi
+Laitue,Lumière,Placez la plante à la lumière ce matin.,2025-10-16,13:20,Jeudi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Épinard,Lumière,Placez la plante à la lumière ce matin.,2025-10-16,13:20,Jeudi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Blette,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-23,13:20,Jeudi
+Chicorée,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Lumière,Placez la plante à la lumière ce matin.,2025-10-29,13:20,Mercredi
+Endive,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-23,13:20,Jeudi
+Roquette,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-24,13:20,Vendredi
+Radicchio,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Cresson,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Lumière,Placez la plante à la lumière ce matin.,2025-10-29,13:20,Mercredi
+Mâche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-27,13:20,Lundi
+Céleri,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-28,13:20,Mardi
+Fenouil,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-22,13:20,Mercredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-26,13:20,Dimanche
+Artichaut,Lumière,Placez la plante à la lumière ce matin.,2025-10-20,13:20,Lundi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Asperge,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-17,13:20,Vendredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Topinambour,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-24,13:20,Vendredi
+Panais,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-16,13:20,Jeudi,Lumière,Placez la plante à la lumière ce matin.,2025-10-27,13:20,Lundi
+Patate douce,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-29,13:20,Mercredi
+Pomme de terre,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Navet jaune,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-16,13:20,Jeudi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Coriandre,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Aneth,Lumière,Placez la plante à la lumière ce matin.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Estragon,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-24,13:20,Vendredi
+Origan,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Lumière,Placez la plante à la lumière ce matin.,2025-10-24,13:20,Vendredi
+Marjolaine,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-17,13:20,Vendredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-28,13:20,Mardi
+Verveine,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-29,13:20,Mercredi
+Mélisse,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-26,13:20,Dimanche
+Stevia,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-26,13:20,Dimanche
+Sarriette,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Chèvrefeuille,Lumière,Placez la plante à la lumière ce matin.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-25,13:20,Samedi
+Coquelicot,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-16,13:20,Jeudi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-28,13:20,Mardi
+Bleuet,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-21,13:20,Mardi,Lumière,Placez la plante à la lumière ce matin.,2025-10-25,13:20,Samedi
+Mimosa,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Iris,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-20,13:20,Lundi,Lumière,Placez la plante à la lumière ce matin.,2025-10-29,13:20,Mercredi
+Jacinthe,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-27,13:20,Lundi
+Glaïeul,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-23,13:20,Jeudi
+Amaryllis,Taille,Taillez les feuilles fanées cette semaine.,2025-10-17,13:20,Vendredi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-23,13:20,Jeudi
+Anémone,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-20,13:20,Lundi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-27,13:20,Lundi
+Camélia,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Lumière,Placez la plante à la lumière ce matin.,2025-10-23,13:20,Jeudi
+Cyclamen,Lumière,Placez la plante à la lumière ce matin.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-29,13:20,Mercredi
+Fuchsia,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-20,13:20,Lundi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-24,13:20,Vendredi
+Gardenia,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-23,13:20,Jeudi
+Hibiscus,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Lilas,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-28,13:20,Mardi
+Lotus,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-24,13:20,Vendredi
+Marguerite,Taille,Taillez les feuilles fanées cette semaine.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Pâquerette,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-29,13:20,Mercredi
+Primevère,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-25,13:20,Samedi
+Renoncule,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-28,13:20,Mardi
+Souci,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Zinnia,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-22,13:20,Mercredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-23,13:20,Jeudi
+Bromélia,Taille,Taillez les feuilles fanées cette semaine.,2025-10-20,13:20,Lundi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-23,13:20,Jeudi
+Begonia rex,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-17,13:20,Vendredi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-29,13:20,Mercredi
+Calla,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-21,13:20,Mardi,Taille,Taillez les feuilles fanées cette semaine.,2025-10-28,13:20,Mardi
+Dracaena,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-18,13:20,Samedi,Lumière,Placez la plante à la lumière ce matin.,2025-10-26,13:20,Dimanche
+Ficus,Taille,Taillez les feuilles fanées cette semaine.,2025-10-18,13:20,Samedi,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-29,13:20,Mercredi
+Philodendron,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-16,13:20,Jeudi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-24,13:20,Vendredi
+Monstera,Taille,Taillez les feuilles fanées cette semaine.,2025-10-19,13:20,Dimanche,Lumière,Placez la plante à la lumière ce matin.,2025-10-23,13:20,Jeudi
+Pothos,Fertilisation,N’oubliez pas la fertilisation hebdomadaire.,2025-10-21,13:20,Mardi,Lumière,Placez la plante à la lumière ce matin.,2025-10-27,13:20,Lundi
+Sansevieria,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-19,13:20,Dimanche,Taille,Taillez les feuilles fanées cette semaine.,2025-10-24,13:20,Vendredi
+Schefflera,Lumière,Placez la plante à la lumière ce matin.,2025-10-19,13:20,Dimanche,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-23,13:20,Jeudi
+Croton,Lumière,Placez la plante à la lumière ce matin.,2025-10-22,13:20,Mercredi,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-28,13:20,Mardi
+Calathea,Arrosage,Il faut arroser la plante aujourd’hui.,2025-10-19,13:20,Dimanche,Humidité,Vérifiez l’humidité du sol avant d’arroser.,2025-10-24,13:20,Vendredi

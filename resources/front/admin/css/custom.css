@@ -1,0 +1,22 @@
+/* // THEME: light green */
+/* Legacy override file kept for compatibility. Detailed admin theming now lives in admin-theme.css. */
+
+:root {
+  --brand-600: #16a34a;
+  --brand-500: #22c55e;
+}
+
+.bg-gradient-success,
+.bg-gradient-primary {
+  background-color: var(--brand-500) !important;
+  background-image: none !important;
+}
+
+.bg-gradient-success:hover,
+.bg-gradient-primary:hover {
+  background-color: var(--brand-600) !important;
+}
+
+.text-success {
+  color: var(--brand-600) !important;
+}
