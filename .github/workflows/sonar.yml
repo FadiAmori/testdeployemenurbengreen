@@ -20,22 +20,7 @@ jobs:
           extensions: mbstring, bcmath, intl, pdo, mysql
           ini-file: production
           github-token: ${{ secrets.GITHUB_TOKEN }}
-        shell: powershell
 
       - name: Install dependencies
         run: composer install --no-interaction --prefer-dist
-        shell: powershell
-
-      - name: Run SonarQube Analysis
-        env:
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
-          SONAR_LOGIN: ${{ secrets.SONAR_TOKEN }}
-        run: |
-          Invoke-WebRequest -Uri https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-5.0.1.3006-windows.zip -OutFile sonar-scanner.zip
-          Expand-Archive -Path sonar-scanner.zip -DestinationPath $env:USERPROFILE\sonar
-          & $env:USERPROFILE\sonar\sonar-scanner-5.0.1.3006-windows\bin\sonar-scanner.bat ^
-            -Dsonar.projectKey=webcore ^
-            -Dsonar.sources=. ^
-            -Dsonar.host.url=$env:SONAR_HOST_URL ^
-            -Dsonar.login=$env:SONAR_LOGIN
         shell: powershell
